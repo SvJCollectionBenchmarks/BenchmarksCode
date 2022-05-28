@@ -1,0 +1,1 @@
+Used operations are: {addAll=22.6, contains=19.6, remove=15.0, add=14.39, union=14.0, removeAll=8.2, difference=5.4, toArray=0.8}

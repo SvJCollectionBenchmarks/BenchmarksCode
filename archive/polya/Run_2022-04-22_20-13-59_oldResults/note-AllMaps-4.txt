@@ -1,0 +1,1 @@
+Used operations are: {containsKey=32.2, remove=22.6, keys=14.0, replace=12.2, values=9.8, get=8.79, put=0.4}

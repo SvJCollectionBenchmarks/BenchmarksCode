@@ -1,0 +1,7 @@
+remove (23.79%)
+containsKey (18.2%)
+keys (14.8%)
+values (13.6%)
+put (11.6%)
+replace (10.8%)
+get (7.19%)

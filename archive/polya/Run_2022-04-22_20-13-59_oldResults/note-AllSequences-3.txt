@@ -1,0 +1,13 @@
+Used operations are: {
+    prepend(18.6%)
+ insert(13.6%)
+ lastIndexOf(13.6%)
+ remove(13.2%)
+ addAll(9.8%)
+ get(7.8%)
+ set(7.4%)
+ indexOf(5.4%)
+ removeAt(5.2%)
+ insertAll(3.59%)
+ append(1.6%)
+ contains(0.2}

@@ -1,0 +1,8 @@
+toArray (22.6%)
+removeAll (17.0%)
+remove (16.8%)
+addAll (16.4%)
+union (9.6%)
+contains (8.6%)
+difference (5.0%)
+add (4.0%)

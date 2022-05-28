@@ -1,0 +1,1 @@
+Used operations are: {prepend=15.2, addAll=13.6, get=11.8, insert=10.0, contains=9.8, removeAt=8.0, insertAll=7.0, indexOf=6.6, append=6.4, lastIndexOf=6.4, set=3.59, remove=1.6}

@@ -1,0 +1,11 @@
+remove(13.4%)
+prepend(13.0%)
+addAll(12.4%)
+lastIndexOf(10.19%)
+indexOf(8.79%)
+get(8.6%)
+append(8.2%)
+insertAll(7.0%)
+insert(7.0%)
+set(6.8%)
+removeAt (2.8%)\n contains (1.79
